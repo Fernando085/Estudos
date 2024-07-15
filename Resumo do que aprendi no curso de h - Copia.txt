@@ -1,0 +1,55 @@
+Resumo do que aprendi no curso de html 5 e css3
+
+Se vc precisar quebrar linha em algum lugar especifico é so usar a Tag <Br>
+Para adicionar Simbolos especiais é so colocar entre &; sendo &reg; para qualquer simbolo
+Para adicionar emojis a Tag é a mesma coisa porem o codigo é diferente por exemplo &#x1F596;
+
+Para carregar imagens no site precisamos do codigo <img src="" alt=""
+e para carregar imagens externas é so usar a URL da imagem
+Para colocar favIcon sera o codigo= <link rel="" href="" type="image/x-icon">
+
+Hierarquia de titulos H1, H2, H3, H4
+
+Posso usar fotmataçoes em Negrito/destaque é so usar <b>termo em negrito</b> (não semantica)
+<Strong>Termo em destaque</Strong> (semantica)
+
+Em italico/Ênfase 
+<i>termo em italico usando</i> a tag I (Não semantica)</P>
+
+Posso tbm Marcar texto Usando a Tag MARK e para mudar a cor do texto marcado
+<mark style="background-color: );">um texto marcado</mark>
+
+para deixa as letras grandes é so usar a tag <big> Texto grande</big>
+para texo pequeno <small>texto pequeno</small>
+
+Podemos marcar <ins>um texto como inseriodo</ins> para dar mais enfase e indeixar que ele foi adicionado dps
+e existe também o <u>sublinhado</u> como a tag U (N semantica
+
+
+texto sobre escrito para inserir coisa do tipo x<sup>20</sup>+3
+texto sub escrito para inserir coisas do tipo h<sub>2</sub>0
+
+                                            Outras Formatações 
+
+citações simples para deixa em aspas é so usar a tag <q>  </q>  
+
+Citação completa para citar uma frase de algeum ou de algum livro tem a tag  <blockquote>  </blockquote>
+
+abreviações <abbr title="HyperText Narkup Language">HTML</abbr> e <abbr title="Cascading Style Sheets">CSS</abbr>
+
+texto invertido <bdo dir="rtl">  </bdo>
+
+                                   LISTAS
+ LISTAS Ordenadas  taga <ol> e para colocar os itens da lista na tag <li>
+
+LISTAS nao Ordenadas tag <ul> e para colocar os itens da lista na tag <li>
+
+Listas de Definiçao <dl>
+    <dt>termo</dt>
+    <dd>descriçao</dd>
+    <dt>css</dt>
+    <dd>Lianguagem de marcaçao para a criaçao de um site.</dd>
+</dl>
+
+
+Links Externos  <a href="" target="_blank" rel="externos"
